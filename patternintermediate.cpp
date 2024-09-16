@@ -1,4 +1,4 @@
-              //MEDIUM LEVEL QUESTIONS
+              //INTERMEDIATE LEVEL QUESTIONS
 
 /*  1
     2 1
