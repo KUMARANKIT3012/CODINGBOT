@@ -1,5 +1,5 @@
 // FUNCTION:
-/*
+
 #include<iostream>
 using namespace std;
 // lets create a function to print helloworld
@@ -17,11 +17,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 // FUNCTION BASICS:
-/*
+
 #include<iostream>
 using namespace std;
 //void multiply(int a,int b){
@@ -46,11 +46,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 // FORWARD DECLARATION:
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -72,11 +72,11 @@ int multiply(int a, int b){
     int product = a*b;
     return product;
 }
-*/
+
 
 
 // PRINT PRIME:
-/*
+
 #include<iostream>
 using namespace std;
 void printprimes(int n){
@@ -102,11 +102,11 @@ int main(){
     printprimes(n);
     return 0;
 }    
-*/
+
 
 
 // CALCULATE nCr:
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -131,11 +131,11 @@ int main(){
     cout<<nCr(n,r)<<endl;
     return 0;
 }    
-*/
+
 
 
 // FIBONACCI SEQUENCE:
-/*
+
 #include<iostream>
 using namespace std;
 int fibo(int n){
@@ -163,12 +163,12 @@ int main(){
     cin>>n;
     cout<<fibo(n);
 }
-*/
+
 
 
            // CALL BY VALUE AND CALL BY REFERENCE:
 // call by VALUE value is not updating
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -182,10 +182,10 @@ int main(){
     cout<<"After Update : "<<x<<endl;
     return 0;
 }
-*/
+
 
 // call by REFERENCE value is updating
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -199,11 +199,11 @@ int main(){
     cout<<"After Update : "<<x<<endl;
     return 0;
 }
-*/
+
 
 
 // TRAILING ZEROS:
-/*
+
 #include<iostream>
 using namespace std;
 
@@ -220,5 +220,5 @@ int main(){
     cout<<trailingzeroes(n)<<endl;
     return 0;
 }
-*/
+
 
