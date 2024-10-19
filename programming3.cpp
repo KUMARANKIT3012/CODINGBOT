@@ -1,6 +1,6 @@
                     // SCOPES
 //Example 1:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -13,10 +13,10 @@ int main(){
     cout<<x<<endl;
     return 0;
 }
-*/
+
 
 //Example 2:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -30,10 +30,10 @@ int main(){
     cout<<x<<endl;
     return 0;
 }
-*/
+
 
 //Example 3:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -47,12 +47,12 @@ int main(){
     cout<<x<<endl;
     return 0;
 }
-*/
+
 
 
                    // GLOBAL SCOPE
 // example 1:
-/*                   
+
 #include<iostream>
 using namespace std;
 int x=1; // Global scope 
@@ -68,12 +68,12 @@ int main(){
     cout<<x<<endl; // x: local variable to main block-->1
     return 0;
 }
-*/
+
 
 
 // Example 2:                                                 //////remember//////
 // USE OF SCOPE RESOLUTION OPERATOR(::)
-/*
+
 #include<iostream>
 using namespace std;
 int x=-10; // Global scope 
@@ -90,12 +90,12 @@ int main(){
     cout<<(::x)<<endl; // x: local variable to main block-->0
     return 0;
 }
-*/
+
 
 
                    // BITWISE OPERATOR 
 // 1) BITWISE AND(&):
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -105,10 +105,10 @@ int main(){
     cout<<(8&5)<<endl;
     return 0;
 }                   
-*/
+
 
 // 2) BITWISE OR(|):
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -118,11 +118,11 @@ int main(){
     cout<<(14|2)<<endl;
     return 0;
 }
-*/
+
 
 
 // 3) BITWISE XOR(^):
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -132,10 +132,10 @@ int main(){
     cout<<(14^1)<<endl;
     return 0;
 }
-*/
+
 
 // 4) LEFT SHIFT (<<):
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -143,10 +143,10 @@ int main(){
     cout<<"after left shift "<<(x<<3)<<endl;
     return 0;
 } 
-*/
+
 
 // 5) RIGHT SHIFT (>>):
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -154,10 +154,10 @@ int main(){
     cout<<"after right shift "<<(x>>2)<<endl;
     return 0;
 } 
-*/
+
 
 // 6) BITWISE NOT (~):
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -165,11 +165,11 @@ int main(){
     cout<<(~x)<<endl;
     return 0;
 }
-*/
+
 
 
 // UNIQUE NUMBER PROBLEM:                              ///////do again///////
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -186,11 +186,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
                      //DO WHILE
-/*                   
+            
 #include<iostream>
 using namespace std;
 int main(){
@@ -201,11 +201,11 @@ int main(){
     }
     while(i<5); // condition check
 } 
-*/                         
+                      
 
 
                     //SWITCH CASE
-/*                    
+                
 #include<iostream>
 using namespace std;
 int main(){
@@ -229,10 +229,10 @@ int main(){
     cout<<endl;
     return 0;
 }                    
-*/
+
 
 // USING BREAK STATEMENT IN SWITCH CASE:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -263,12 +263,12 @@ int main(){
     cout<<endl;
     return 0;
 } 
-*/               
+            
 
 
                 // WHITESPACE INPUT            
 // Count characters till dollar($):
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -283,10 +283,10 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 //cin.get                                     /////important/////
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -305,11 +305,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
                 // REFERENCE VARIABLE        /////asked in interviews//////
-/*                
+           
 #include<iostream>
 using namespace std;
 int main(){
@@ -322,4 +322,4 @@ int main(){
     cout<<c<<endl;
     return 0;
 } 
-*/               
+           
