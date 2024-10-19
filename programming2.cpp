@@ -1,6 +1,6 @@
 // print numbers from 1 till 10
 //whileloop 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -12,11 +12,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //print numbers from 1 till n
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -30,11 +30,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //print even numbers
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -50,11 +50,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //sum of the dights 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -69,12 +69,12 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 
 // BREAK STATEMENT 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -89,11 +89,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //BREAK STATEMENT INFINITE LOOPS
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -110,11 +110,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //number is prime or not(using break statement)
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -135,11 +135,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 // CONTINUE STATEMENT 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -155,10 +155,10 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
 
 
-/*
+
+// example:
 #include<iostream>
 using namespace std;
 int main(){
@@ -174,11 +174,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 // LARGEST NUMBER
-/*
+
 #include<iostream>
 #include<climits>// to get the least value of buckets 
 using namespace std;
@@ -199,13 +199,13 @@ int main(){
     cout<<endl;
     return 0;
 } 
-*/   
+
 
 
 
 
                         // FOR LOOPS 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -218,11 +218,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //print all the even numbers using for loops 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -237,11 +237,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //PRINT ALL THE PRIME NUMBERS 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -263,12 +263,12 @@ int main(){
     cout<<endl;
     i=i+1;
 }
-*/
+
 
 
 
 //STAR PATTERN 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -284,11 +284,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
 //NUMBER PATTERN 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -311,4 +311,3 @@ int main(){
     }
     return 0;
 }
-*/
