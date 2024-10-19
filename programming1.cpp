@@ -1,15 +1,15 @@
 //hello world program
-/*
+
 #include<iostream>//header file
 using namespace std;//standard namespace c++
 int main(){//start
     cout<<"hello world";
     return 0;
 }
-*/
+
 
 // calculate simple interest
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -26,10 +26,10 @@ int main(){
     cout<<'\n';
     return 0;
 }
-*/
+
 
 // using operators 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -46,4 +46,3 @@ int main(){
     }
     return 0;
 }
-*/
