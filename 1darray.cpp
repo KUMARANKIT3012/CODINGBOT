@@ -2,7 +2,7 @@
         // Initialization of an array
 
 // Example 1:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -12,10 +12,10 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 // Example 2:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -25,11 +25,11 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 
 // Example 3:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -39,11 +39,11 @@ int main(){
     }
     return 0;
 }
-*/
+
 
 
                  // USER INPUT: 
-/*                 
+              
 #include<iostream>
 using namespace std;
 int main(){
@@ -58,11 +58,11 @@ int main(){
     cout<<endl;
     return 0;
 } 
-*/                
+             
 
 
                  // LINEAR SEARCH (ALGORITHM):-
-/*                 
+               
 #include<iostream>
 using namespace std;
 int main(){
@@ -86,11 +86,11 @@ int main(){
     return 0;
 }
 // output is: key found at index 2
-*/
+
 
 
                 // LARGEST NUMBER:
-/*                
+             
 #include<iostream>
 #include<climits> // INT_MAX and INT_MIN 
 using namespace std;
@@ -107,13 +107,13 @@ int main(){
     return 0;
 } 
 // output = largest number is 7.
-*/                
+         
 
 
                  // SORTING:
 
 // BUBBLE SORT:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -137,10 +137,10 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/           
+         
 
 // SELECTION SORT:                 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -165,10 +165,10 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 //INSERTION SORT:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -194,11 +194,11 @@ int main(){
     }
     return 0;
 }
-*/
+
 
                           // INBUILT SORT:
 // example 1:     
-/*            
+         
 #include<iostream>
 #include<algorithm> // remember to include this.
 using namespace std;
@@ -220,10 +220,10 @@ int  main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 //exapmle 2:
-/*
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -249,10 +249,10 @@ for(int i=0; i<n; i++){
 cout<<endl;
 return 0;
 }
-*/
+
 
 //exapmle 3:
-/*
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -278,11 +278,11 @@ for(int i=0; i<n; i++){
 cout<<endl;
 return 0;
 }
-*/
+
 
 
                    // USING ARRAY WITH FUNCTION:
-/*
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -303,11 +303,11 @@ int main(){
 
     return 0;
 }
-*/
+
 
 
          // COMPARATOR USECASE:
-/*         
+     
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -347,11 +347,11 @@ int main(){
 
     return 0;
 }
-*/
+
 
 
              // PAIR SUM:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -375,13 +375,13 @@ int main(){
     }
     return 0;
 }      
-*/
+
 
 
 
                     // SUB ARRAY:
 // GENERATING SUBARRAY:                    
-/*                    
+                
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -400,11 +400,11 @@ int main(){
     int n= sizeof(a)/sizeof(int);
     generatesubarrays(a,n);
 }                   
-*/
+
 
 
 // MAXIMUM SUM SUBARRAY:
-/*
+
 #include<iostream>
 #include<algorithm>
 #include<climits>
@@ -443,11 +443,11 @@ int main(){
     maximumsubarrays(a,n);
     return 0;
 }
-*/
+
 
 
 // MAXIMUS SUM SUBARRAY:
-/*
+
 #include<iostream>
 #include<algorithm>
 #include<climits>
@@ -493,11 +493,11 @@ int main(){
     maximumsubarrays(a,n);
     return 0;
 }
-*/
+
 
 
 // maximum subarray OPTIMIZED solution
-/*
+
 #include<iostream>
 #include<algorithm>
 #include<climits>
@@ -560,4 +560,3 @@ int main(){
     maximumsumsubarray(a,n);
     maximumsumsubarray2(a,n);
 }
-*/
