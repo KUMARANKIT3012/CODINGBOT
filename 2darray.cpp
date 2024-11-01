@@ -1,6 +1,6 @@
                   // 2d array:
 // Example 1:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -20,11 +20,10 @@ int main(){
     }
     return 0;
 }
-*/
 
 
 // Example 2:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -43,12 +42,12 @@ int main(){
     }
     return 0;
 }
-*/
+
 
      
             // USER INPUT:
 // Example 1:            
-/*            
+        
 #include<iostream>
 using namespace std;
 int main(){
@@ -71,12 +70,12 @@ int main(){
     }    
     return 0;
 }
-*/
+
 
 
 // Example 2:
 // (not used commonly while coding / just for understanding)
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -102,11 +101,11 @@ int main(){
     }    
     return 0;
 }
-*/
+
 
 
 // Wave print:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -131,11 +130,11 @@ int main(){
     cout<<endl;
     return 0;
 }
-*/
+
 
 
             // 2D array (FUNCTION):
-/*
+
 #include<iostream>
 using namespace std;
 void waveprint(int a[][4],int n, int m){
@@ -164,7 +163,7 @@ int main(){
     waveprint(a,n,m);
     return 0;
 }            
-*/
+
 
 
          // SPIRAL PRINT:
@@ -173,7 +172,7 @@ int main(){
              2)sc- starting column
              3)er- end row
              4)ec- end column */      
-/*
+
 #include<iostream>
 using namespace std;
 void spiralprint(int a[50][50], int n, int m){
@@ -231,12 +230,12 @@ int main(){
     spiralprint(a,r,c);
     return 0;
 }
-*/
+
 
 
              // ROTATE IMAGE:
              // Important for interview:
-/*
+
 #include<iostream>
 using namespace std;
 void rotateimage(int a[][50], int n){
@@ -285,14 +284,14 @@ int main(){
     rotateimage(a,n);
     return 0;
 }
-*/
+
 
 
 
                    // STAIRCASE SEARCH:
                    // note: use of "Binary Search" (Algorithm)
                    // VERY VERY IMPORTANT FOR INTERVIEW:
-/*
+
 #include<iostream>
 using namespace std;
 void staircasesearch(int a[][4], int n, int m){
@@ -328,4 +327,3 @@ int main(){
     int n=4,m=4;
     staircasesearch(a,n,m);
 }
-*/
