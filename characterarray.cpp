@@ -1,6 +1,6 @@
                    // CHARACTER ARRAY 
 // for single quote 
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -9,11 +9,11 @@ int main(){
     cout<<a<<endl;
     return 0;
 }
-*/
+
 
 
 // Double quotes:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -21,11 +21,11 @@ int main(){
     cout<<a<<endl;
     return 0;
 }
-*/
+
 
 
             // ITERATION in character array:
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -36,12 +36,12 @@ int main(){
     cout<<endl;
     return 0;
 }   
-*/         
+     
 
 
           // USER INPUT:
     // Note:- using cin.get() (so that it can read white spaces)
-/*
+
 #include<iostream>
 using namespace std;
 void readline(char a[],char delimiter){   // Note:- Delimiter = '\n'
@@ -61,11 +61,11 @@ int main(){
     cout<<a<<endl;
     return 0;
 } 
-*/         
+    
 
 
      // Read lines_cin.get():
-/*     
+
 #include<iostream>
 using namespace std;
 void readlines(char a[], char delimiter='\n'){
@@ -84,11 +84,11 @@ int main(){
     cout<<a<<endl;
     return 0;
 }
-*/
+
 
 
 // example 2: 
-/*
+
 #include<iostream>
 using namespace std;
 void readline(char a[], char delimiter='\n'){
@@ -107,12 +107,12 @@ int main(){
     cout<<a<<endl;
     return 0;
 }
-*/
+
 
 
          // FIND LENGTH:
 // Example: 1
-/*
+
 #include<iostream>
 using namespace std;
 int length(char a[]){
@@ -129,12 +129,12 @@ int main(){
     cout<<ans<<endl;
     return 0;
 }
-*/
+
 
 
 // Example 2:
 // using inbuilt function:
-/*
+
 #include<iostream>
 #include<algorithm>
 #include<cstring> // include this header file for strlen
@@ -156,11 +156,11 @@ int main(){
     cout<<strlen(a)<<endl;
     return 0;
 }
-*/
+
 
 
              // CHECK PALLINDROME:
-/*
+
 #include<iostream>
 #include<cstring> // header file for using character array function
 using namespace std;
@@ -186,11 +186,11 @@ int main(){
         cout<<"not a pallindrome"<<endl;
     }
 }
-*/
+
 
 
         // Handling Numbers and Strings:   
-/*
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -204,11 +204,11 @@ int main(){
         cout<<a<<endl;
     }
 }
-*/
+
 
 
               // Largest length:
-/*
+
 #include<iostream>
 #include<cstring>
 #include<algorithm>
@@ -234,12 +234,12 @@ int main(){
     cout<<"length: "<<largest_len<<endl;
     return 0;
 }
-*/
+
 
 
                  // Remove consecutive duplicates:
                  // asked in interviews:
-/*                 
+            
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -263,12 +263,12 @@ int main(){
     removeduplicates(a);
     cout<<a<<endl;
 }
-*/
+
 
 
                 // ROTATE STRING:
                 // very commonly asked in interviews:
-/*
+
 #include<iostream>
 #include<cstring>
 using namespace std;
@@ -303,7 +303,6 @@ int main(){
     cout<<"after rotation: "<<a<<endl;
     return 0;
 }
-*/
 
 
 //Example : cin.getline
