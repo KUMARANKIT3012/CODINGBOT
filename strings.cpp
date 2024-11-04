@@ -1,6 +1,6 @@
                         // STRING:-
 // Example1: 
-/*
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -12,12 +12,12 @@ int main(){
     cout<<str<<endl;
     return 0;
 }
-*/
+
 
 
               // CONCATINATION OF TWO STRING:
 // Example 2:
-/*
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -28,12 +28,12 @@ int main(){
     cout<<str3<<endl;
     return 0;
 }
-*/
+
 
 
              // STRING COMPARE:-
 // Example 3:-
-/*
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -44,11 +44,11 @@ int main(){
     return 0;
 }              
 // output- 0 (false)
-*/
+
 
 
 // EXAMPLE 4:
-/*
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -59,12 +59,12 @@ int main(){
     return 0;
 }       
 // output- 0(false)
-*/
+
 
 
 // STRING LENGTH:
 //Example 5:
-/*
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -73,11 +73,11 @@ int main(){
     cout<<str.length()<<endl;
     return 0;
 }
-*/
+
 
 
                  // USER INPUT STRING:
-/*                 
+              
 #include<iostream>
 #include<string>
 using namespace std;
@@ -87,11 +87,11 @@ int main(){
     cout<<"output of the input: "<<str<<endl;
     return 0;
 } 
-*/
+
 
 
              // LOOPS ON STRING:
-/*             
+         
 #include<iostream>
 #include<string>
 using namespace std;
@@ -104,11 +104,11 @@ int main(){
     cout<<endl;
     return 0;
 } 
-*/
+
 
 
                  // REVERSE A STRING (USING STL):
-/*
+
 #include<iostream>
 #include<algorithm>
 #include<string>
@@ -119,4 +119,4 @@ int main(){
     cout<<str<<endl;
     return 0;
 }
-*/
+
