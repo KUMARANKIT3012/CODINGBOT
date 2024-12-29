@@ -9,7 +9,6 @@ This repository tracks my day-by-day progress in learning **Programming**, **Dat
 - [Technologies & Tools](#technologies--tools)
 - [Progress Tracker](#progress-tracker)
 - [Projects](#projects)
-- [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -71,18 +70,6 @@ This section lists all the projects I’ve worked on during my learning journey.
 
 3. **Portfolio Website**:
    - A personal website built with **HTML**, **CSS**, and **JavaScript**, showcasing my learning progress, projects, and skills.
-
-## Learning Resources
-Here are some resources I’ve used to guide my learning:
-
-- **Books**:
-  - "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein (CLRS) – for mastering DSA concepts.
-  - "Python Crash Course" – for learning Python and applying it to projects.
-  
-- **Online Platforms**:
-  - **LeetCode**, **HackerRank** – for solving coding challenges and improving problem-solving skills.
-  - **Codecademy**, **freeCodeCamp** – for web development tutorials and exercises.
-  - **YouTube Channels**: Traversy Media, The Net Ninja, etc.
 
 ## Contributing
 Contributions are always welcome! If you'd like to contribute:
